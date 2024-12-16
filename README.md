@@ -79,3 +79,12 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 pc@DESKTOP-OTTEP0S MINGW64 ~/Documents/myproject (master)
 $
+pc@DESKTOP-OTTEP0S MINGW64 ~/Documents/myproject (master)
+$ git branch
+* master
+
+pc@DESKTOP-OTTEP0S MINGW64 ~/Documents/myproject (master)
+$ git branch -m master main
+
+pc@DESKTOP-OTTEP0S MINGW64 ~/Documents/myproject (main)
+$
